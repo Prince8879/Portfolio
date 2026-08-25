@@ -34,7 +34,7 @@ export default function Hero() {
       <div className="hero-wave" />
 
       {/* Main Hero */}
-      <div className="neon-content mx-auto flex min-h-screen max-w-7xl items-center px-6 pb-20 pt-32 sm:px-8 lg:px-12">
+      <div className="neon-content mx-auto flex min-h-0 max-w-7xl items-center px-6 pb-8 pt-24 sm:px-8 lg:px-12">
         <div className="grid w-full items-center gap-14 lg:grid-cols-[1.05fr_0.95fr]">
 
           {/* LEFT SIDE */}

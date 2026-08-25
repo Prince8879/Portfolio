@@ -210,7 +210,7 @@ a {
 
 .hero-section {
   position: relative;
-  min-height: 100vh;
+  min-height: auto;
   overflow: hidden;
   isolation: isolate;
 
@@ -1280,7 +1280,7 @@ footer::before {
 
 .hero-section {
   position: relative;
-  min-height: 100vh;
+  min-height: auto;
   overflow: hidden;
   isolation: isolate;
 
@@ -1927,4 +1927,5 @@ footer::before {
   border-radius: 50% !important;
   display: block !important;
 }
+
 
