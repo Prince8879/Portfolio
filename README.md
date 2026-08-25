@@ -1,4 +1,3 @@
-
 # Prince Tiwari — Portfolio
 
 > A modern personal portfolio showcasing my work across Cloud, DevOps, Data Science, Machine Learning, and Generative AI.
@@ -32,15 +31,19 @@ The portfolio is designed to present my technical work and experience in a clean
 ## Portfolio Sections
 
 ### 👋 Hero
+
 A brief introduction with quick access to projects and contact information.
 
 ### 👨‍💻 About
+
 An overview of my technical interests and background.
 
 ### 🛠️ Skills
+
 Technologies and tools I am currently working with across Cloud, DevOps, Data, and AI.
 
 ### 🚀 Projects
+
 A selection of my most relevant projects, including:
 
 - Linux System Monitor
@@ -51,6 +54,7 @@ A selection of my most relevant projects, including:
 - And other projects available through GitHub
 
 ### 💼 Experience
+
 Includes my internship and practical learning experience, with a focus on:
 
 - Generative AI
@@ -59,6 +63,7 @@ Includes my internship and practical learning experience, with a focus on:
 - Hands-on technical development
 
 ### 📜 Certifications
+
 Selected certifications and learning achievements across:
 
 - Python & Data Science
@@ -69,9 +74,11 @@ Selected certifications and learning achievements across:
 - Microsoft & LinkedIn Learning
 
 ### 📄 Resume
+
 Visitors can view or download my latest resume directly from the portfolio.
 
 ### 📬 Contact
+
 Connect with me through Email, GitHub, or LinkedIn.
 
 ---
@@ -112,7 +119,6 @@ Connect with me through Email, GitHub, or LinkedIn.
 ---
 
 ## Project Structure
-
 
 ```text
 Portfolio/
