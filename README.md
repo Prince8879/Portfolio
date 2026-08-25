@@ -113,6 +113,7 @@ Connect with me through Email, GitHub, or LinkedIn.
 
 ## Project Structure
 
+
 ```text
 Portfolio/
 ├── app/
@@ -141,6 +142,3 @@ Portfolio/
 │   └── resume/
 │
 └── README.md
-
-## Author ##
-Prince Tiwari
