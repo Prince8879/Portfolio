@@ -141,3 +141,6 @@ Portfolio/
 │   └── resume/
 │
 └── README.md
+
+## Author ##
+Prince Tiwari
