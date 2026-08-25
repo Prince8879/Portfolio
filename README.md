@@ -1,36 +1,143 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# Prince Tiwari — Portfolio
 
-First, run the development server:
+> A modern personal portfolio showcasing my work across Cloud, DevOps, Data Science, Machine Learning, and Generative AI.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🌐 **Live Portfolio:**  
+https://princetiwari-portfolio.vercel.app
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## About
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This portfolio represents my technical journey, projects, internships, certifications, and continuous learning.
 
-## Learn More
+I am focused on building practical skills in:
 
-To learn more about Next.js, take a look at the following resources:
+- Cloud Computing
+- DevOps
+- AWS
+- Linux
+- Docker
+- Git & GitHub
+- Python
+- Data Science
+- Machine Learning
+- Generative AI
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The portfolio is designed to present my technical work and experience in a clean, modern, and responsive interface.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## Portfolio Sections
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 👋 Hero
+A brief introduction with quick access to projects and contact information.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 👨‍💻 About
+An overview of my technical interests and background.
+
+### 🛠️ Skills
+Technologies and tools I am currently working with across Cloud, DevOps, Data, and AI.
+
+### 🚀 Projects
+A selection of my most relevant projects, including:
+
+- Linux System Monitor
+- RAG System
+- LLM & Generative AI projects
+- Machine Learning projects
+- Waste Management
+- And other projects available through GitHub
+
+### 💼 Experience
+Includes my internship and practical learning experience, with a focus on:
+
+- Generative AI
+- Data Analytics
+- AI & Cloud technologies
+- Hands-on technical development
+
+### 📜 Certifications
+Selected certifications and learning achievements across:
+
+- Python & Data Science
+- Generative AI
+- AI Tools
+- Cybersecurity Awareness
+- GitHub
+- Microsoft & LinkedIn Learning
+
+### 📄 Resume
+Visitors can view or download my latest resume directly from the portfolio.
+
+### 📬 Contact
+Connect with me through Email, GitHub, or LinkedIn.
+
+---
+
+## Tech Stack
+
+### Frontend
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+### Development
+
+- Git
+- GitHub
+- VS Code
+- npm
+
+### Cloud & DevOps
+
+- AWS
+- Linux
+- Docker
+- Git
+- GitHub
+
+### Data & AI
+
+- Python
+- SQL
+- Machine Learning
+- Generative AI
+- Hugging Face
+- RAG
+
+---
+
+## Project Structure
+
+```text
+Portfolio/
+├── app/
+│   ├── page.tsx
+│   └── globals.css
+│
+├── components/
+│   ├── cards/
+│   ├── layout/
+│   └── sections/
+│       ├── About.tsx
+│       ├── Certifications.tsx
+│       ├── Contact.tsx
+│       ├── Experience.tsx
+│       ├── Hero.tsx
+│       ├── MoreAbout.tsx
+│       ├── Projects.tsx
+│       └── Skills.tsx
+│
+├── data/
+│   └── projects.ts
+│
+├── public/
+│   ├── certificates/
+│   ├── images/
+│   └── resume/
+│
+└── README.md
