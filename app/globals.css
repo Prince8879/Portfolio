@@ -1872,3 +1872,59 @@ footer::before {
     animation: none !important;
   }
 }
+/* ===== PROFILE PHOTO FIX ===== */
+
+.profile-visual{
+  width:380px !important;
+  height:380px !important;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  position:relative;
+}
+
+.profile-photo-wrap{
+  width:320px !important;
+  height:320px !important;
+  border-radius:50% !important;
+  overflow:hidden !important;
+  aspect-ratio:1/1 !important;
+  position:relative;
+}
+
+.profile-photo{
+  width:100% !important;
+  height:100% !important;
+  object-fit:cover !important;
+  object-position:center top !important;
+  border-radius:50% !important;
+  display:block;
+}
+
+.profile-edge-fade{
+  border-radius:50% !important;
+}
+
+
+/* ===== PROFILE PHOTO: PERFECT CIRCLE ===== */
+
+.photo-container {
+  width: 320px !important;
+  height: 320px !important;
+  aspect-ratio: 1 / 1 !important;
+  border-radius: 50% !important;
+  overflow: hidden !important;
+  position: relative !important;
+  flex-shrink: 0 !important;
+}
+
+.photo-container .profile-photo {
+  width: 100% !important;
+  height: 100% !important;
+  aspect-ratio: 1 / 1 !important;
+  object-fit: cover !important;
+  object-position: center top !important;
+  border-radius: 50% !important;
+  display: block !important;
+}
+
