@@ -117,7 +117,7 @@ Connect with me through Email, GitHub, or LinkedIn.
 - RAG
 
 ---
-
+````md
 ## Project Structure
 
 ```text
@@ -148,3 +148,9 @@ Portfolio/
 │   └── resume/
 │
 └── README.md
+
+n
+---
+## Author ##
+Prince Tiwari 
+
