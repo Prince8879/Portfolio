@@ -120,7 +120,8 @@ Connect with me through Email, GitHub, or LinkedIn.
 
 ## Author 
 Prince Tiwari
-Git Clone
+## Git Clone
+https://github.com/Prince8879/Portfolio.git
 
 ````md
 ## Project Structure
@@ -158,9 +159,6 @@ Portfolio/
 
 ---
 
-
-
-'''
 
 
 
