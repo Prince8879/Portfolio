@@ -117,6 +117,11 @@ Connect with me through Email, GitHub, or LinkedIn.
 - RAG
 
 ---
+
+## Author 
+Prince Tiwari
+Git Clone
+
 ````md
 ## Project Structure
 
@@ -152,6 +157,10 @@ Portfolio/
 '''
 
 ---
-## Author ##
-Prince Tiwari 
+
+
+
+'''
+
+
 
